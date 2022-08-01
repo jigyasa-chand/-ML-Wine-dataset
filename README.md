@@ -6,7 +6,7 @@ Part 1: Implemented own version of the decision tree using binary univariate spl
 
 Part2:  Cross-Validation: Evaluated the decision tree using 10-fold cross validation
 
-Improvement Strategies:Improved decision tree algorithm using below:
+Part 3: Improvement Strategies:Improved decision tree algorithm using below:
 • Use Gini index instead of entropy
 • Use multi-way split (instead of binary split)
 • Use multivariate split (instead of univariate)
